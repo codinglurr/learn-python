@@ -24,4 +24,4 @@ print(10 % 4.5)
 # print(12 % -5)
 # modulus masi bingung
  
- print("saya ganteng")
+print("saya ganteng")
