@@ -1,5 +1,7 @@
 # learn-python
-Repo ini adalah pembelajaran para anak tel-u kelas IF4404
+Repo ini adalah pembelajaran para anak tel-u kelas IF4404. Repo ini digunakan untuk pembelajaran saat kelas syncronous bersama 1 Angkatan Informatika.
+Untuk mahasiswa diluar tel-u bisa kontribusi pada note Kontribusi dibawah agar dapat masuk organisasi ini.
+
 ## Materi
 Materi ini terdiri dari 9 Modul yaitu:
 * Modul 1: Cara Kerja Pemrograman Komputer
@@ -21,3 +23,8 @@ Buat kalian yang ingin kontribusi untuk repository ini, boleh banget. kalian bis
 5. Tunggu konfirmasi kami ya.
 
 Selamat, anda berhasil berkontribusi pada repository `learn-python` ini.
+
+## Anggota
+![raflidev](https://github.com/raflidev.png?size=100)
+![naufalzaid](https://github.com/naufalzaid.png?size=100)
+![shafads](https://github.com/shafads.png?size=100)
